@@ -1,1 +1,2 @@
 # fashion-image-captioning
+Derin öğrenme ile kıyafet görüntülerinden tanım üretme bir görsel açıklama projesidir. Literatürde “Image Captioning” olarak bilinen bu konu, bir resmin içeriğini kelimelerle tanımlama görevidir. Bu görev, bilgisayarla görme ve doğal dil işlemenin kesiştiği noktada yer alır. Bu projenin amacı iyi sonuçlar elde edilmiş derin öğrenme algoritmalarından Uygulamalı Evrişimsel Sinir Ağları (Convolutional Neural NetworkCNN) ve LSTM kullanıp kıyafet görüntüleri için açıklamalar oluşturmaktır.
